@@ -9,3 +9,5 @@
 * 学习Android的一些UI控件开发和Menu开发
 
 * 学习Appium对于TextView控件和Activity的校验
+
+* 学习笔记点[这里](http://wybblog.applinzi.com/blog/article/99/)

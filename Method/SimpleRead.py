@@ -10,7 +10,7 @@ from BaseDriver.BaseCommon import AppUI
 
 class SimpleRead(AppUI):
 
-	# ----------------------新闻简读所有数据--------------------------
+	# ------------------------------所有数据--------------------------
 	TextView = methodConfig.SIMPLEREAD['TextView']
 	MainMenu = methodConfig.SIMPLEREAD['MainMenu']
 	ChangeTextView = methodConfig.SIMPLEREAD['ChangeTextView']
